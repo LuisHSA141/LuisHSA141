@@ -11,11 +11,11 @@
 <img src="assets/sec-01.svg" width="100%">
 
 ```
-> OPERADOR ........ Arthur // LuisHSA141
-> FUNÇÃO .......... Criador e mestre do Projeto 1.4.1
-> ESPECIALIDADE ... Sites e apps de suporte pro RPG
-> FACÇÃO .......... Jormungand
-> STATUS .......... EM CAMPO
+> NOME ............ Luis
+> FOCO ............ Desenvolvimento web e mobile
+> STACK ........... JavaScript, HTML, CSS, Capacitor, Vercel
+> PROJETOS ........ Sites e app Android do Projeto 1.4.1, um RPG autoral
+> STATUS .......... Aberto a oportunidades
 ```
 
 <img src="assets/sec-02.svg" width="100%">
