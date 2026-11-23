@@ -13,7 +13,7 @@
 ```
 > NOME ............ Luis
 > FOCO ............ Desenvolvimento web e mobile
-> STACK ........... JavaScript, HTML, CSS, Capacitor, Vercel
+> STACK ........... JavaScript, Java, Python, PHP, C/C++, React, MySQL
 > PROJETOS ........ Sites e app Android do Projeto 1.4.1, um RPG autoral
 > STATUS .......... Aberto a oportunidades
 ```
@@ -28,13 +28,34 @@
 
 <div align="center">
 
+<sub><b><code>// LINGUAGENS</code></b></sub><br>
 <img src="https://img.shields.io/badge/JavaScript-0a1c1f?style=for-the-badge&logo=javascript&logoColor=2a9db0">
+<img src="https://img.shields.io/badge/Java-0a1c1f?style=for-the-badge&logo=openjdk&logoColor=2a9db0">
+<img src="https://img.shields.io/badge/Python-0a1c1f?style=for-the-badge&logo=python&logoColor=2a9db0">
+<img src="https://img.shields.io/badge/PHP-0a1c1f?style=for-the-badge&logo=php&logoColor=2a9db0">
+<img src="https://img.shields.io/badge/C-0a1c1f?style=for-the-badge&logo=c&logoColor=2a9db0">
+<img src="https://img.shields.io/badge/C%2B%2B-0a1c1f?style=for-the-badge&logo=cplusplus&logoColor=2a9db0">
 <img src="https://img.shields.io/badge/HTML5-0a1c1f?style=for-the-badge&logo=html5&logoColor=2a9db0">
-<img src="https://img.shields.io/badge/CSS3-0a1c1f?style=for-the-badge&logo=css&logoColor=2a9db0">
+<img src="https://img.shields.io/badge/CSS-0a1c1f?style=for-the-badge&logo=css&logoColor=2a9db0">
+<br><br>
+
+<sub><b><code>// FRAMEWORKS E BIBLIOTECAS</code></b></sub><br>
+<img src="https://img.shields.io/badge/React-0a1c1f?style=for-the-badge&logo=react&logoColor=2a9db0">
+<img src="https://img.shields.io/badge/Bootstrap-0a1c1f?style=for-the-badge&logo=bootstrap&logoColor=2a9db0">
+<img src="https://img.shields.io/badge/pandas-0a1c1f?style=for-the-badge&logo=pandas&logoColor=2a9db0">
 <img src="https://img.shields.io/badge/Capacitor-0a1c1f?style=for-the-badge&logo=capacitor&logoColor=2a9db0">
-<img src="https://img.shields.io/badge/Vercel-0a1c1f?style=for-the-badge&logo=vercel&logoColor=2a9db0">
+<br><br>
+
+<sub><b><code>// BANCO DE DADOS E FERRAMENTAS</code></b></sub><br>
+<img src="https://img.shields.io/badge/MySQL-0a1c1f?style=for-the-badge&logo=mysql&logoColor=2a9db0">
 <img src="https://img.shields.io/badge/Git-0a1c1f?style=for-the-badge&logo=git&logoColor=2a9db0">
+<img src="https://img.shields.io/badge/Vercel-0a1c1f?style=for-the-badge&logo=vercel&logoColor=2a9db0">
 <img src="https://img.shields.io/badge/Blender-0a1c1f?style=for-the-badge&logo=blender&logoColor=2a9db0">
+<br><br>
+
+<sub><b><code>// INTELIGÊNCIA ARTIFICIAL</code></b></sub><br>
+<img src="https://img.shields.io/badge/AI%20Skills-0a1c1f?style=for-the-badge">
+<br><br>
 
 </div>
 
