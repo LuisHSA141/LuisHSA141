@@ -21,7 +21,6 @@
 
 <a href="https://tempo141.vercel.app"><img src="assets/card-01.svg" width="100%"></a>
 <a href="https://ficha141.vercel.app"><img src="assets/card-02.svg" width="100%"></a>
-<a href="https://github.com/wavezinkat/Ficha-Digital---POK-RPG-D-D-5E"><img src="assets/card-03.svg" width="100%"></a>
 
 <img src="assets/sec-03.svg" width="100%">
 
