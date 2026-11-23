@@ -12,7 +12,6 @@
 
 ```
 > NOME ............ Luis
-> FOCO ............ Desenvolvimento web e mobile
 > STACK ........... JavaScript, Java, Python, PHP, C/C++, React, MySQL
 > PROJETOS ........ Sites e app Android do Projeto 1.4.1, um RPG autoral
 > STATUS .......... Aberto a oportunidades
